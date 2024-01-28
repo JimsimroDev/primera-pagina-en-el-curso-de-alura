@@ -1,0 +1,17 @@
+ALGABETOS
+A,B,C,D,E,....
+NUMEROS
+1,2,3,4,5,6,7,8,9
+BINARIO
+0,1
+
+
+1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+- - - - - -
+#000000 igual al color negro
+
+#FF0000 ROJO
+r r g g b B
+
+rgb()
